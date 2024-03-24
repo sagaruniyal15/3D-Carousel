@@ -3,15 +3,17 @@ This React web application featuring a sleek and responsive navbar along with a 
 
 ## Features ✨
 
-- **Responsive Navbar :** Navbar adjusts elegantly to different screen sizes, ensuring a consistent and user-friendly layout on all devices.
+- **Responsive Navbar :** Navbar adjusts to different screen sizes, ensuring a consistent and user-friendly layout on all devices.
 
-    ![Navbar Screenshot](sample2.png)
+    ![sample2](https://github.com/sagaruniyal15/3D-Carousel/assets/62292603/05addadf-1b12-436d-a784-092207dc0ce4)
+
 
 
 - **Coverflow Carousel :** The carousel component showcases photos in a basic coverflow effect
 
 
-    ![Navbar Screenshot](sample1.png)
+    ![sample1](https://github.com/sagaruniyal15/3D-Carousel/assets/62292603/ab177c28-6b34-4ded-87b3-65fb71152280)
+
 
 
 
