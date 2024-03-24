@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/3D-Carousel/static/css/main.29691e83.css",
+    "main.js": "/3D-Carousel/static/js/main.4b3f08c9.js",
+    "static/js/453.5d339db5.chunk.js": "/3D-Carousel/static/js/453.5d339db5.chunk.js",
+    "static/media/haka noodles.jpg": "/3D-Carousel/static/media/haka noodles.dab1a82ffdc46185c322.jpg",
+    "static/media/aloo paratha.jpg": "/3D-Carousel/static/media/aloo paratha.c42c6bd3546b6ec085d7.jpg",
+    "static/media/Rajma chawal.jpg": "/3D-Carousel/static/media/Rajma chawal.36f566edac2d90cbcfcd.jpg",
+    "static/media/manchurian.jpg": "/3D-Carousel/static/media/manchurian.432efc8b82f7fed5aece.jpg",
+    "static/media/chole bhature.jpg": "/3D-Carousel/static/media/chole bhature.f306f2f75d259c47565c.jpg",
+    "static/media/avataar_logo_white.png": "/3D-Carousel/static/media/avataar_logo_white.2e62898dafbd03335306.png",
+    "index.html": "/3D-Carousel/index.html",
+    "main.29691e83.css.map": "/3D-Carousel/static/css/main.29691e83.css.map",
+    "main.4b3f08c9.js.map": "/3D-Carousel/static/js/main.4b3f08c9.js.map",
+    "453.5d339db5.chunk.js.map": "/3D-Carousel/static/js/453.5d339db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29691e83.css",
+    "static/js/main.4b3f08c9.js"
+  ]
+}
