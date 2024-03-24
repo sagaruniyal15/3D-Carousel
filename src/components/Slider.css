@@ -5,13 +5,11 @@
 
 .section-heading {
     font-size: 3rem;
-    color: orange;
+    color: #0f172a;
     padding: 1rem 0;
 }
 
-.section-subheading {
-    color: yellowgreen;
-}
+
 
 .trending {
     padding: 4rem 0;

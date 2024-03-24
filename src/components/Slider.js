@@ -12,7 +12,6 @@ const Slider = () => {
     <div>
         <section id = "trending"></section>
         <div>
-            <h3 class="text-center section-subheading">Popular Delivery</h3>
             <h1 class="text-center section-heading">Trending Food</h1>
         </div>
 
