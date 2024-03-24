@@ -9,8 +9,6 @@
     padding: 1rem 0;
 }
 
-
-
 .trending {
     padding: 4rem 0;
 }
@@ -74,10 +72,37 @@
     margin: 0 5px;
     border-radius: 50%;
 }
-
 .swiper-pagination-bullet-active {
     background-color: #007bff; 
 }
+
+.trending-slide .trending-slide-content{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+.trending-slide-content .food-price{
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    color: red; 
+}
+
+.trending-slide-content  .trending-slide-content-bottom{
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    color: white;
+}
+
+.food-rating{
+    padding-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+
 
 @media (max-width: 768px) {
     .swiper-slide {
